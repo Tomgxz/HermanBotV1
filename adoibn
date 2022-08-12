@@ -1,0 +1,39 @@
+self.defaultSettings = {
+            "cooldowns": {
+                "work":14400,
+                "crime":14400,
+                "rob":86400,
+                "withdraw":1,
+                "deposit":1,
+            },
+            "reply":True,
+            "payouts": {
+                "crime": {
+                    "max":300,
+                    "min":10},
+                "work": {
+                    "max":250,
+                    "min":10},
+            },
+            "failrates": {
+                "crime":50,
+                "rob":70
+            }
+            "interest":5,
+            "roulette_toggle":True,
+            "roulette_time":60,
+            "roulette_payouts": {
+                "zero":36
+                "single":17,
+                "color":1,
+                "dozen":2,
+                "odd_or_even":1,
+                "halfs":1,
+                "column":2,
+            },
+            "betting": {
+                "max":10000,
+                "min":100,
+            },
+            "wallet_max":50000,
+        }
