@@ -9,16 +9,14 @@
             }
         }
     },
-    "838287918949990482": {
+    "1005473672162705408": {
         "settings": {
             "cooldowns": {
-                "work": 0,
-                "send": 0,
-                "crime": 0,
-                "rob": 0,
-                "slut": 0,
-                "withdraw": 0,
-                "deposit": 0
+                "work": 14400,
+                "crime": 14400,
+                "rob": 86400,
+                "withdraw": 1,
+                "deposit": 1
             },
             "reply": true,
             "payouts": {
@@ -39,177 +37,6 @@
                 "crime": 50,
                 "rob": 70,
                 "slut": 40
-            },
-            "fines": {
-                "rob": {
-                    "max": 250,
-                    "min": 50
-                },
-                "crime": {
-                    "max": 1000,
-                    "min": 100
-                },
-                "slut": {
-                    "max": 500,
-                    "min": 150
-                }
-            },
-            "interest": 5,
-            "roulette_toggle": true,
-            "roulette_time": 60,
-            "roulette_payouts": {
-                "zero": 36,
-                "single": 17,
-                "color": 1,
-                "dozen": 2,
-                "odd_or_even": 1,
-                "halfs": 1,
-                "column": 2
-            },
-            "betting": {
-                "max": 10000,
-                "min": 69
-            },
-            "wallet_max": 50000,
-            "shop": {
-                "chicken": {
-                    "price": 250,
-                    "maxperperson": 1
-                }
-            }
-        },
-        "users": {
-            "523209585700372490": {
-                "cooldowns": {
-                    "work": null,
-                    "send": null,
-                    "crime": null,
-                    "rob": null,
-                    "deposit": null,
-                    "withdraw": null
-                },
-                "items": {
-                    "chicken": []
-                },
-                "wallet": 0,
-                "bank": 1281,
-                "winnings": 0,
-                "losses": 0
-            },
-            "738083227943567470": {
-                "cooldowns": {
-                    "work": null,
-                    "send": null,
-                    "crime": null,
-                    "rob": null,
-                    "deposit": null,
-                    "withdraw": null
-                },
-                "items": {
-                    "chicken": []
-                },
-                "wallet": 0,
-                "bank": 2180,
-                "winnings": 0,
-                "losses": 0
-            }
-        }
-    },
-    "693823758003077250": {
-        "settings": {
-            "cooldowns": {
-                "work": 14400,
-                "crime": 14400,
-                "rob": 86400,
-                "withdraw": 1,
-                "deposit": 1
-            },
-            "reply": true,
-            "payouts": {
-                "crime": {
-                    "max": 300,
-                    "min": 10
-                },
-                "work": {
-                    "max": 250,
-                    "min": 10
-                }
-            },
-            "failrates": {
-                "crime": 50,
-                "rob": 70
-            },
-            "fines": {
-                "max": 250,
-                "min": 10
-            },
-            "interest": 5,
-            "roulette_toggle": true,
-            "roulette_time": 60,
-            "roulette_payouts": {
-                "zero": 36,
-                "single": 17,
-                "color": 1,
-                "dozen": 2,
-                "odd_or_even": 1,
-                "halfs": 1,
-                "column": 2
-            },
-            "betting": {
-                "max": 10000,
-                "min": 100
-            },
-            "wallet_max": 50000,
-            "shop": {
-                "chicken": {
-                    "price": 250,
-                    "maxperperson": 1
-                }
-            }
-        },
-        "users": {
-            "523209585700372490": {
-                "cooldowns": {
-                    "work": null,
-                    "send": null,
-                    "crime": null,
-                    "rob": null,
-                    "deposit": null,
-                    "withdraw": null
-                },
-                "items": {
-                    "chicken": []
-                },
-                "wallet": 0,
-                "bank": 1281,
-                "winnings": 0,
-                "losses": 0
-            }
-        }
-    },
-    "1005473672162705408": {
-        "settings": {
-            "cooldowns": {
-                "work": 14400,
-                "crime": 14400,
-                "rob": 86400,
-                "withdraw": 1,
-                "deposit": 1
-            },
-            "reply": true,
-            "payouts": {
-                "crime": {
-                    "max": 300,
-                    "min": 10
-                },
-                "work": {
-                    "max": 250,
-                    "min": 10
-                }
-            },
-            "failrates": {
-                "crime": 50,
-                "rob": 70
             },
             "fines": {
                 "max": 250,
@@ -252,8 +79,8 @@
                 "items": {
                     "chicken": []
                 },
-                "wallet": 24,
-                "bank": 1285,
+                "wallet": 0,
+                "bank": 2226,
                 "winnings": 0,
                 "losses": 0
             },
@@ -269,8 +96,8 @@
                 "items": {
                     "chicken": []
                 },
-                "wallet": 315,
-                "bank": 1019,
+                "wallet": 0,
+                "bank": 2728,
                 "winnings": 0,
                 "losses": 0
             },
@@ -287,7 +114,7 @@
                     "chicken": []
                 },
                 "wallet": 0,
-                "bank": 0,
+                "bank": 200,
                 "winnings": 0,
                 "losses": 0
             }
